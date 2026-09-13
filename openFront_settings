@@ -1,0 +1,42 @@
+{
+  "name": {
+    "nameScaleFactor": 0.25,
+    "cullThreshold": 0,
+    "darkNames": false,
+    "hoverFadeAlpha": 0.2,
+    "hoverGlowWidth": 0,
+    "hoverGlowAlpha": 0
+  },
+  "structure": {
+    "iconSize": 50,
+    "classicIcons": true,
+    "classicNumbers": false,
+    "showDots": true
+  },
+  "mapOverlay": {
+    "navalHighlight": true,
+    "highlightFillBrighten": 1,
+    "highlightBrighten": 1,
+    "highlightThicken": 1,
+    "territorySaturation": 1,
+    "territoryAlpha": 0.64,
+    "coordinateGridOpacity": 0.2
+  },
+  "railroad": {
+    "railMinZoom": 0
+  },
+  "smallPlayerGlow": {
+    "strength": 0.7
+  },
+  "passEnabled": {
+    "fx": true,
+    "fallout": false
+  },
+  "terrain": {
+    "sandColor": "#e0f589",
+    "plainsColor": "#20c134"
+  },
+  "lighting": {
+    "falloffPower": 2
+  }
+}
