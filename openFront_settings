@@ -1,6 +1,6 @@
 {
   "name": {
-    "nameScaleFactor": 0.25,
+    "nameScaleFactor": 0.4,
     "cullThreshold": 0,
     "darkNames": false,
     "hoverFadeAlpha": 0.2,
@@ -15,11 +15,11 @@
   },
   "mapOverlay": {
     "navalHighlight": true,
-    "highlightFillBrighten": 0.3,
+    "highlightFillBrighten": 0.14,
     "highlightBrighten": 1,
     "highlightThicken": 1,
     "territorySaturation": 1,
-    "territoryAlpha": 0.64,
+    "territoryAlpha": 0.85,
     "coordinateGridOpacity": 0.2
   },
   "railroad": {
