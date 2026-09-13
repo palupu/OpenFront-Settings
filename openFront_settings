@@ -15,7 +15,7 @@
   },
   "mapOverlay": {
     "navalHighlight": true,
-    "highlightFillBrighten": 1,
+    "highlightFillBrighten": 0.3,
     "highlightBrighten": 1,
     "highlightThicken": 1,
     "territorySaturation": 1,
