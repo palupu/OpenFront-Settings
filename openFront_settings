@@ -2,7 +2,7 @@
   "name": {
     "nameScaleFactor": 0.4,
     "cullThreshold": 0,
-    "darkNames": false,
+    "darkNames": true,
     "hoverFadeAlpha": 0.2,
     "hoverGlowWidth": 0,
     "hoverGlowAlpha": 0
